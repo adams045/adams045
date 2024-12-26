@@ -1,5 +1,5 @@
-# 💫 About Me:
-Shan Adams M<br>Pursuing Bachelors In INFORMATION TEHNOLOGY At KSRCT<br>Front-End-Developer<br>REACT || Javascript || CSS<br>Currently Learning Full-Stack Development<br>
+# 💫 SHAN ADAMS M:
+Pursuing Bachelors In INFORMATION TEHNOLOGY At KSRCT<br>Front-End-Developer<br>REACT || Javascript || CSS<br>Currently Learning Full-Stack Development<br>
 
 
 ## 🌐 Socials:
