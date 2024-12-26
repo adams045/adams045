@@ -1,4 +1,4 @@
-# 💫 SHAN ADAMS M:
+# ♘ SHAN ADAMS M
 Pursuing Bachelors In INFORMATION TEHNOLOGY At KSRCT<br>Front-End-Developer<br>REACT || Javascript || CSS<br>Currently Learning Full-Stack Development<br>
 
 
